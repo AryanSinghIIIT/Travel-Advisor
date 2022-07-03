@@ -1,5 +1,4 @@
 # Travel-Advisor
-# Visit  https://besttourguide.netlify.app/
 
  It's an advanced Travel Companion Application built using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs and data filtering 
 
